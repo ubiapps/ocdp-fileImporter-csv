@@ -42,4 +42,4 @@ Related
 
 For details of how to write an OCDP adapter, see the [ocdp adapter how-to].
 
-[ocdp adapter how-to]:http://github.com/TobyEalden/ocdp-adapters
+[ocdp adapter how-to]:http://github.com/ubiapps/ocdp-adapters
